@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a second year PhD student in the [health management and policy](https://sph.umich.edu/hmp/phdstudents/kulikoff-rachel.html) and [political science](https://lsa.umich.edu/polisci/people/graduate-students/-rachel-kulikoff.html) departments at the University of Michigan studying the politics of public health data. Within public health, I study health policy and politics; in political science my subfield is American Politics with a focus on bureaucratic politics. My work also engages with the science and technology studies, specifically, the sociology of quantification. I am a mixed-methods scholar, undertaking both qualitative and quantitative work. 
 
-A data-driven personal website
+My dissertation project asks when and why governments produce high-quality data, describing the institutional conditions under which the quality of data produced by the government improves, declines, and remains stable. I argue that data quality improves when expert, autonomous bureaucrats operate in environments of low political contestation. My main empirical case studies are maternal mortality rates, the poverty line, and the consumer price index.  
+
+My research has appeared in *The Lancet*, *The Lancet Regional Health-Americas*, *Health Policy*, and *JAMA Pediatrics*. 
+
+Previously, I worked at Public Health Madison & Dane County on the maternal and child health team and the COVID-19 data team, as an epidemiologist at the Cook County Department of Public Health, and as a modeler at the Institute for Health Metrics and Evaluation. I got my MPH in Global Health- Health Metrics at the University of Washington, and my undergraduate degree at the University of Chicago. 
+
+
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
