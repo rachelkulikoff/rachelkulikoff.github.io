@@ -1,16 +1,16 @@
 ---
 layout: archive
-title: "Download my CV below"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-<div class="cv-download-links">
-  <a href="{{ base_path }}/files/current_cv.pdf" class="btn btn--primary">Download CV</a>
-</div>
 
+<iframe src="/files/pdf/kulikoff_cv.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+You can download a PDF copy of my CV [here](/files/pdf/kulikoff_cv.pdf).
 
 <!-- 
 {% include base_path %}
