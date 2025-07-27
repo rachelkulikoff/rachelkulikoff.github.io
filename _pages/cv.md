@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+You can download my CV here[rachelkulikoff.github.io/files/current_cv.docx].
+
+<!-- 
 {% include base_path %}
 
 Education
@@ -61,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
