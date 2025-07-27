@@ -25,7 +25,7 @@ author_profile: true
 
 [**“Global, Regional, and National under-5 Mortality, Adult Mortality, Age-Specific Mortality, and Life Expectancy, 1970–2016: A Systematic Analysis for the Global Burden of Disease Study 2016.”**](https://doi.org/10.1016/S0140-6736(17)31833-0) *The Lancet*, 2017 (with GBD 2016 Mortality Collaborators).
 
-[**"Health Metrics Priorities: A Perspective from Young Researchers.”**]https://doi.org/10.1016/S0140-6736(16)32134-1) *The Lancet*, 2016 (with Julia Morris, Grant Nguyen, et al).
+[**"Health Metrics Priorities: A Perspective from Young Researchers.”**](https://doi.org/10.1016/S0140-6736(16)32134-1) *The Lancet*, 2016 (with Julia Morris, Grant Nguyen, et al).
 
 [**"Global, Regional, National, and Selected Subnational Levels of Stillbirths, Neonatal, Infant, and under-5 Mortality, 1980–2015: A Systematic Analysis for the Global Burden of Disease Study 2015"**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)31575-6/fulltext?rss%3Dyes=) *The Lancet*, 2016 (with Haidong Wang, Matthew Coates, et al).
 
