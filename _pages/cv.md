@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "You can download my CV below:"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-You can download my CV below:
 
 <div class="cv-download-links">
   <a href="{{ base_path }}/files/current_cv.docx" class="btn btn--primary">Download CV</a>
