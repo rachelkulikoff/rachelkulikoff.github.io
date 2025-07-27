@@ -13,21 +13,21 @@ author_profile: true
 
 [**"Trump’s Second Presidency Begins: Evaluating Effects on the US Health System."**](https://www.thelancet.com/journals/lanam/article/PIIS2667-193X(25)00183-8/fulltext) *The Lancet Regional Health-Americas*, 2025 (with Scott Greer, Holly Jarman, and Miranda Yaver).
 
-["The Second Trump Administration: A Policy Analysis of Challenges and Opportunities for European Health Policymakers."](https://www.sciencedirect.com/science/article/pii/S016885102500106X) *Health Policy*, 2025 (with Scott Greer, Holly Jarman, Dimitra Panteli, Ewout van Ginneken, and Matthias Wismar).
+[**"The Second Trump Administration: A Policy Analysis of Challenges and Opportunities for European Health Policymakers."**](https://www.sciencedirect.com/science/article/pii/S016885102500106X) *Health Policy*, 2025 (with Scott Greer, Holly Jarman, Dimitra Panteli, Ewout van Ginneken, and Matthias Wismar).
 
-["The Future of Global Health, without the United States."](https://doi.org/10.1080/00963402.2025.2488675) *Bulletin of the Atiomic Scientsts*, 2025 (with Scott Greer).
+[**"The Future of Global Health, without the United States."**](https://doi.org/10.1080/00963402.2025.2488675) *Bulletin of the Atiomic Scientsts*, 2025 (with Scott Greer).
 
-["Identifying COVID-19 Outbreaks From Contact-Tracing Interview Forms for Public Health Departments: Development of a Natural Language Processing Pipeline"](https://doi.org/10.2196/36119) *JIMR Public Heatlh and Surveillance*, 2022 (with John Caskey, Iain L McConnell et al).
+[**"Identifying COVID-19 Outbreaks From Contact-Tracing Interview Forms for Public Health Departments: Development of a Natural Language Processing Pipeline"**](https://doi.org/10.2196/36119) *JIMR Public Heatlh and Surveillance*, 2022 (with John Caskey, Iain L McConnell et al).
 
-["Maternal Mortality Ratios in 2852 Chinese Counties, 1996–2015, and Achievement of Millennium Development Goal 5 in China: A Subnational Analysis of the Global Burden of Disease Study 2016."](https://doi.org/10.1016/S0140-6736(18)31712-4) *The Lancet*, 2019 (with Juan Liang, Xiaohong Li, et al).
+[**"Maternal Mortality Ratios in 2852 Chinese Counties, 1996–2015, and Achievement of Millennium Development Goal 5 in China: A Subnational Analysis of the Global Burden of Disease Study 2016."**](https://doi.org/10.1016/S0140-6736(18)31712-4) *The Lancet*, 2019 (with Juan Liang, Xiaohong Li, et al).
 
-["Population and Fertility by Age and Sex for 195 Countries and Territories, 1950–2017: A Systematic Analysis for the Global Burden of Disease Study 2017."](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)32278-5/fulltext?ref=https://githubhelp.com) *The Lancet*, 2018 (with Christopher Murray, Charlton Callender, et al).
+[**"Population and Fertility by Age and Sex for 195 Countries and Territories, 1950–2017: A Systematic Analysis for the Global Burden of Disease Study 2017."**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)32278-5/fulltext?ref=https://githubhelp.com) *The Lancet*, 2018 (with Christopher Murray, Charlton Callender, et al).
 
-[“Global, Regional, and National under-5 Mortality, Adult Mortality, Age-Specific Mortality, and Life Expectancy, 1970–2016: A Systematic Analysis for the Global Burden of Disease Study 2016.”](https://doi.org/10.1016/S0140-6736(17)31833-0) *The Lancet*, 2017 (with , GBD 2016 Mortality Collaborators).
+[**“Global, Regional, and National under-5 Mortality, Adult Mortality, Age-Specific Mortality, and Life Expectancy, 1970–2016: A Systematic Analysis for the Global Burden of Disease Study 2016.”**](https://doi.org/10.1016/S0140-6736(17)31833-0) *The Lancet*, 2017 (with GBD 2016 Mortality Collaborators).
 
-["Health Metrics Priorities: A Perspective from Young Researchers.” ](https://doi.org/10.1016/S0140-6736(16)32134-1) *The Lancet*, 2016 (with Julia Morris, Grant Nguyen, et al).
+[**"Health Metrics Priorities: A Perspective from Young Researchers.”]**(https://doi.org/10.1016/S0140-6736(16)32134-1) *The Lancet*, 2016 (with Julia Morris, Grant Nguyen, et al).
 
-["Global, Regional, National, and Selected Subnational Levels of Stillbirths, Neonatal, Infant, and under-5 Mortality, 1980–2015: A Systematic Analysis for the Global Burden of Disease Study 2015"](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)31575-6/fulltext?rss%3Dyes=) *The Lancet*, 2016 (with Haidong Wang, Matthew Coates, et al).
+[**"Global, Regional, National, and Selected Subnational Levels of Stillbirths, Neonatal, Infant, and under-5 Mortality, 1980–2015: A Systematic Analysis for the Global Burden of Disease Study 2015"**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)31575-6/fulltext?rss%3Dyes=) *The Lancet*, 2016 (with Haidong Wang, Matthew Coates, et al).
 
 <!-- ## Working Papers
 
