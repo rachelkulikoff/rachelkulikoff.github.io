@@ -7,7 +7,12 @@ redirect_from:
   - /resume
 ---
 
-You can download my CV here[rachelkulikoff.github.io/files/current_cv.docx].
+You can download my CV below:
+
+<div class="cv-download-links">
+  <a href="{{ base_path }}/files/current_cv.docx" class="btn btn--primary">Download CV</a>
+</div>
+
 
 <!-- 
 {% include base_path %}
