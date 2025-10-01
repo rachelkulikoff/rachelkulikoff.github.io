@@ -9,6 +9,15 @@ author_profile: true
   <div class="wordwrap"> A complete list of publications is available here on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a> or on my CV.</div>
 {% endif %}
 
+## Working Papers
+
+1.	“Can We Trust Politicized Public Health Data? The Case of COVID-19 in the United States” 
+
+2.	“The Use of Health Data in Political Science: Mechanisms, Models, and Endogeneity” 
+
+3.	“Interpreting and Visualizing Complex Data: The Case of COVID-19 Data Dashboards” (Book Chapter in *Palgrave Handbook for the History of Epidemiology*) 
+
+
 ## Selected Publications
 
 ["Trump’s Second Presidency Begins: Evaluating Effects on the US Health System."](https://www.thelancet.com/journals/lanam/article/PIIS2667-193X(25)00183-8/fulltext) *The Lancet Regional Health-Americas*, 2025 (with Scott Greer, Holly Jarman, and Miranda Yaver).
