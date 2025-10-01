@@ -9,14 +9,6 @@ author_profile: true
   <div class="wordwrap"> A complete list of publications is available here on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a> or on my CV.</div>
 {% endif %}
 
-## Working Papers
-
-1.	“Can We Trust Politicized Public Health Data? The Case of COVID-19 in the United States” 
-
-2.	“The Use of Health Data in Political Science: Mechanisms, Models, and Endogeneity” 
-
-3.	“Interpreting and Visualizing Complex Data: The Case of COVID-19 Data Dashboards” (Book Chapter in *Palgrave Handbook for the History of Epidemiology*) 
-
 
 ## Selected Publications
 
@@ -24,7 +16,7 @@ author_profile: true
 
 ["The Second Trump Administration: A Policy Analysis of Challenges and Opportunities for European Health Policymakers."](https://www.sciencedirect.com/science/article/pii/S016885102500106X) *Health Policy*, 2025 (with Scott Greer, Holly Jarman, Dimitra Panteli, Ewout van Ginneken, and Matthias Wismar).
 
-["The Future of Global Health, without the United States."](https://doi.org/10.1080/00963402.2025.2488675) *Bulletin of the Atiomic Scientsts*, 2025 (with Scott Greer).
+["The Future of Global Health, without the United States."](https://doi.org/10.1080/00963402.2025.2488675) *Bulletin of the Atomic Scientsts*, 2025 (with Scott Greer).
 
 ["Identifying COVID-19 Outbreaks From Contact-Tracing Interview Forms for Public Health Departments: Development of a Natural Language Processing Pipeline"](https://doi.org/10.2196/36119) *JIMR Public Heatlh and Surveillance*, 2022 (with John Caskey, Iain L McConnell et al).
 
@@ -37,6 +29,15 @@ author_profile: true
 ["Health Metrics Priorities: A Perspective from Young Researchers.”](https://doi.org/10.1016/S0140-6736(16)32134-1) *The Lancet*, 2016 (with Julia Morris, Grant Nguyen, et al).
 
 ["Global, Regional, National, and Selected Subnational Levels of Stillbirths, Neonatal, Infant, and under-5 Mortality, 1980–2015: A Systematic Analysis for the Global Burden of Disease Study 2015"](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)31575-6/fulltext?rss%3Dyes=) *The Lancet*, 2016 (with Haidong Wang, Matthew Coates, et al).
+
+## Working Papers
+
+1.	“Can We Trust Politicized Public Health Data? The Case of COVID-19 in the United States” 
+
+2.	“The Use of Health Data in Political Science: Mechanisms, Models, and Endogeneity” 
+
+3.	“Interpreting and Visualizing Complex Data: The Case of COVID-19 Data Dashboards” (Book Chapter in *Palgrave Handbook for the History of Epidemiology*) 
+
 
 <!-- ## Working Papers
 
