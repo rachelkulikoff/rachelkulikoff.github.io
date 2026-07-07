@@ -12,7 +12,7 @@ I have acted as a teaching assistant or graduate student instructor for both mas
 ### Master's Level 
 I acted as a graduate student instructor (GSI) for the following classes at the University of Michigan:
 
-**HMP 601 Healthcare Quality,Performance Measurement and Improvement** Required class for MPH and MHSA students, focuses on understanding healthcare quality, payment systems, and policy and programs to improve quality and value (Spring 2026)
+**HMP 601 Healthcare Quality, Performance Measurement, and Improvement** Required class for MPH and MHSA students, focuses on understanding healthcare quality, payment systems, and policy and programs to improve quality and value (Spring 2026)
 
 **HMP 615 Introduction to Health Policy:** Required class for MPH and MHSA students, focuses on the US policymaking process, especially relating to how health policy decisions are made and the effect of these policies on population health. (Fall 2024, 2025)
 
