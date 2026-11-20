@@ -12,6 +12,8 @@ author_profile: true
 
 ## Selected Publications
 
+["Health Policy Effects of Budgetary Actions Under the Second Trump Administration"](https://www.thelancet.com/journals/lanam/article/PIIS2667-193X%2826%2900300-5/fulltext) *The Lancet Region Health-Americas*, 2027 (with Holly Jarman, Miranda Yaver, and Scott Greer)
+
 ["Trump’s Second Presidency Begins: Evaluating Effects on the US Health System."](https://www.thelancet.com/journals/lanam/article/PIIS2667-193X(25)00183-8/fulltext) *The Lancet Regional Health-Americas*, 2025 (with Scott Greer, Holly Jarman, and Miranda Yaver).
 
 ["The Second Trump Administration: A Policy Analysis of Challenges and Opportunities for European Health Policymakers."](https://www.sciencedirect.com/science/article/pii/S016885102500106X) *Health Policy*, 2025 (with Scott Greer, Holly Jarman, Dimitra Panteli, Ewout van Ginneken, and Matthias Wismar).
@@ -32,34 +34,17 @@ author_profile: true
 
 ## Working Papers
 
-1. "Health Policy Effects of Budgetary Actions Under the Second Trump Administration" (Revise and Resubmit in *Lancet Regional Health Americas*) with Holly Jarman, Miranda Yaver, & Scott Greer
+1.	"Effects of Noncomparability on the Use of Secondary Policy Data" 
 
-    We analyze the impact of the second Trump administration’s budgetary actions on policies affecting the
-    social determinants of health. Using the Social Determinants of Health framework, we review executive
-    actions including funding freezes and rescissions, and the One Big Beautiful Bill Act. We conclude that
-    these measures weakened federal capacity, public health infrastructure, education, scientific research,
-    global health programs, and environmental protections. Medicaid, Affordable Care Act policies, family
-    planning, and food assistance face reduced eligibility, greater administrative burdens, and substantial
-    funding cuts, while funding grows for immigration and carceral policies that damage health. Noncitizens,
-    low-income communities, racial and ethnic minorities, disabled people, and rural populations will bear
-    disproportionate harms. State and local governments may mitigate some effects, but fiscal, legal, political,
-    and institutional constraints limit them. Rebuilding federal health policy will require more than restoring
-    previous funding; policymakers must design stronger, resilient institutions suited to damaged institutions.
+    Political science relies upon secondary policy data in order to answer important research questions across subfields. This data, in domains as diverse as health, education, environment, crime, and economics, is often not comparable over time or across geographies. This paper argues: 1. This noncomparability stems from the endogeneity of data to the political systems that produce and from the modeling of raw data that often follows its collection. 2. This noncomparability cannot be addressed through straightforward quantitative methods such as applying fixed effects of theorizing about the directionality of bias. 3. The noncomparability is highly consequential to the results of causal inference. Accounting for the noncomparability can render a significant result null or even reverse the direction of a relationship. This paper illustrates these consequences through a substantive demonstration examining the relationship between democratization and population health, finding that accounting for differences in modeling and propagating uncertainty can result in a range of substantive interpretations, including that democracy is good for health, has no effect on health, or is bad for health. The paper concludes with recommendations for how to address these methodological problems. 
 
-
-2.	“The Use of Health Data in Political Science: Mechanisms, Comparability, and Endogeneity” (submitted)
-
-    Political scientists are increasingly using quantitative data outside of our core disciplinary expertise. This paper asks: what are the major pitfalls inherent in this cross-disciplinary research? How should we best work with data that is unfamiliar to us to make empirically accurate and theoretically sound political science? This paper discusses three challenges in using unfamiliar data: specifying the full causal mechanism by choosing the appropriate variable, understanding the comparability of raw and modeled data across time and over different geographies, and accounting for the ways in which data is endogenous to politics. It argues that it is important to understand the broader data landscape in domains unfamiliar to political science because it has a potential impact on political science inference and theory. This paper uses quantitative health data, including infant mortality rates and life expectancy, as an example to illustrate some of the ways in which these choices of variables and research designs influence conclusions, and makes recommendations for best practices when making use of unfamiliar data in political science research. 
-    
-
-3.	“Interpreting and Visualizing Complex Data: The Case of COVID-19 Data Dashboards” (Book Chapter in *Palgrave Handbook for the History of Epidemiology*), currently in production 
+2.	“Interpreting and Visualizing Complex Data: The Case of COVID-19 Data Dashboards” (Book Chapter in *Palgrave Handbook for the History of Epidemiology*), currently in production 
 
     The COVID-19 pandemic led to an explosion of data dashboards that communicated, visualized, and interpreted underlying epidemiological data. These dashboards were produced by academic institutions, governments, and the news media. They shaped the way that that the general public understood the course of the pandemic. In this chapter, I seek to understand the construction of these data dashboards: the complexity of the underlying COVID-19 data sources, the interpretative choices made by dashboard creators in presenting the data, and the ways in which the creation and maintenance of dashboards shaped and was shaped by the professional norms of their creators. I argue that while COVID-19 dashboards and the visual interpretations inherent in their creation do have antecedents in the history of data visualizations, these dashboards are also historically unique. Contemporary COVID-19 data dashboards were created for a large, general audience. They presented global data across a broad range of geographies, necessitating technical sophistication to manage the fragmented underlying data and engendering assumptions that this data is commensurable. Crucially, COVID-19 data dashboards are spawning more dashboards, shaping the future of public health data communication and visualization.
 
-4.	“Can We Trust Public Health Data? The Case of COVID-19 in the United States” (submitted)
+3.	“Can We Trust Public Health Data? The Case of COVID-19 in the United States” (Revise and Resubmit)
 
-    The second Trump administration has caused concerns about the integrity and availability of public health   surveillance and data. These concerns about the vulnerability of health statistics to politically motivated    manipulation extend beyond the United States. This paper attempts to evaluate the trustworthiness of government data in a salient, politicized context in the US by studying state-level undercounting of COVID-19 deaths. Is there evidence of differential reporting of COVID-19 deaths by state-level partisanship in the US? Using excess mortality as a proxy for true COVID-19 deaths, this paper finds that while heterogeneity exists in state-level COVID-19 death undercounting, there is only weak evidence of partisanship driving these differences, and these results are not robust. Instead of manipulating existing data, government actors during COVID-19 and beyond ended surveillance programs, dismantled data collection infrastructure, and removed access to existing data. 
-
+    The salience of the COVID-19 pandemic has given rise to questions about the integrity and availability of public health surveillance and data. This paper attempts to evaluate the trustworthiness of government data in a salient, politicized context in the US by studying state-level undercounting of COVID-19 deaths. Is there evidence of differential reporting of COVID-19 deaths by state-level partisanship in the US? Using excess mortality as a proxy for true COVID-19 deaths, this paper finds that while heterogeneity exists in state-level COVID-19 death undercounting, there is no evidence that this heterogeneity is driven by state partisanship. Instead of manipulating existing data, government actors during COVID-19 and beyond ended surveillance programs, dismantled data collection infrastructure, and removed access to existing data. 
 
 <!-- ## Working Papers
 
